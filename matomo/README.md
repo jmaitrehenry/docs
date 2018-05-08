@@ -19,6 +19,8 @@ WARNING:
 -	[`3.4.0-apache`, `3.4-apache`, `3-apache`, `apache`, `3.4.0`, `3.4`, `3`, `latest` (*apache/Dockerfile*)](https://github.com/matomo-org/docker/blob/c985c710bcd7ff07a79efd60433bc7f0d1674c28/apache/Dockerfile)
 -	[`3.4.0-fpm`, `3.4-fpm`, `3-fpm`, `fpm` (*fpm/Dockerfile*)](https://github.com/matomo-org/docker/blob/c985c710bcd7ff07a79efd60433bc7f0d1674c28/fpm/Dockerfile)
 
+[![Build Status](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/matomo/badge/icon) (`amd64/matomo` build job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/matomo/)
+
 # Quick reference
 
 -	**Where to get help**:  
